@@ -14,3 +14,5 @@ https://beebom.com/how-modify-or-create-custom-keyboard-layouts-mac/
 
 1. `option + x`：×
 2. `option + v`：✔
+3. `option + d`：→
+4. `option + a`：←
